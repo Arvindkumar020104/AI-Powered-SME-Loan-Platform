@@ -1,4 +1,6 @@
 # 🚀 AI-Powered SME Loan Platform
+<img width="1582" height="994" alt="1 - Cover" src="https://github.com/user-attachments/assets/d116a003-f864-4279-b950-e620f7855c20" />
+
 ### End-to-End Product Management & UX/UI Case Study
 
 An end-to-end Product Management and UX/UI case study demonstrating how AI can improve the SME loan journey—from application submission to approval, risk analysis, reporting, and customer management.
@@ -195,20 +197,13 @@ Design System
 - Conclusion
 
 ---
+## 🚀 Live Prototype
+🔗 Figma Prototype: https://www.figma.com/design/FvamSBDY3MrDhr5EiguMoL/AI-Powered-SME-Loan-Platform-%7C-UX-Case-Study?node-id=11-19&t=cwuA547xfHGLfdEg-1
 
-# 🔗 Live Prototype
 
-👉 **Figma Prototype**
+## 📄 Case Study
+📄 PDF: [Case study AI SME.pdf](https://github.com/user-attachments/files/30226016/Case.study.AI.SME.pdf)
 
-https://www.figma.com/design/FvamSBDY3MrDhr5EiguMoL/AI-Powered-SME-Loan-Platform-%7C-UX-Case-Study?node-id=11-19&t=cwuA547xfHGLfdEg-1
-
----
-
-# 📄 Case Study
-
-👉 **Complete PDF**
-
-[Case study AI SME.pdf](https://github.com/user-attachments/files/30226016/Case.study.AI.SME.pdf)
 
 ---
 
